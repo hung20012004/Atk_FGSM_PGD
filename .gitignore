@@ -1,0 +1,23 @@
+# Large artifacts, datasets, weights, outputs
+*.zip
+*.pt
+*.pth
+*.onnx
+weights/
+outputs/
+data/
+repos/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
