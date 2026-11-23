@@ -6,7 +6,6 @@
 weights/
 outputs/
 data/
-repos/
 
 # Python caches
 __pycache__/
